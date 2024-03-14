@@ -1,6 +1,6 @@
 # ivanti_lilo_extract_aes_key
 
-This tool will try to find the AES key decoding routine located in the "loop_setup_root" function of Ivanti Kernels based on LILO. It will then extract the key and decode it to display it in a format compatible with the lilo-pulse-secure-decrypt tool.
+This tool will try to find the AES key decoding routine located in the "loop_setup_root" function of Ivanti Kernels based on LILO. It will then extract the key and decode it to display it in a format compatible with the lilo-pulse-secure-decrypt tool. Learn more at https://www.intrinsec.com/ivanti-auto-aes-keys-recovery/
 
 ## Building
 
